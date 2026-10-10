@@ -46,11 +46,17 @@
         "AppImage",
         "deb"
       ],
-      "category": "Graphics"
+      "category": "Graphics",
+      "maintainer": "Holiday Yard Designer <maintainer@users.noreply.github.com>"
     },
     "nsis": {
       "oneClick": false,
       "allowToChangeInstallationDirectory": true
     }
+  },
+  "homepage": "https://github.com/Ziebell-Eric/Holiday-Yard-Designer",
+  "author": {
+    "name": "Holiday Yard Designer",
+    "email": "maintainer@users.noreply.github.com"
   }
 }
